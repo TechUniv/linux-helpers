@@ -1,0 +1,7 @@
+= Tech U Linux Helpers repo
+
+== What's in the repository?
+The current use of this repository is to provide free snippits of Linux scripts to do various tasks.  Most scripts here also have an associated Youtube video on the link:https://www.youtube.com/channel/UCktyfwVYLJWPT9BMRRnvA1Q[Te
+ch U youtube channel].
+
+All software in this repository is considered Free and Open Source, licensed under the Apache Software License version 2.0
